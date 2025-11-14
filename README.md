@@ -12,4 +12,4 @@ Following the operating instructions, product a gift with laser cutting machine 
 <img width="120" height="300" alt="image" src="https://github.com/user-attachments/assets/f9e18e2f-435b-4133-9693-6b80db1a8444" />
 Step 4. Assembling the toy.
 you can go far away and assemble details to get a toy. Great result! You can also acrylic paints to cover the toy with beautiful  pattern.
-<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/b8220b46-2fac-4157-a438-835403291470" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/b8220b46-2fac-4157-a438-835403291470" />
