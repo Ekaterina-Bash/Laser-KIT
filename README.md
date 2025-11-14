@@ -3,14 +3,14 @@
 It's known, that the symbol of 2026 - is horse. So, let's create a New Year gift, inspired by this animal. To achieve this goal use laser cutting.
 
 ## **💻: Designing**
-1. You can use a lot of sources for searching ideas. Pinterest - is good one.
+1. You can use a lot of sources for searching ideas. Pinterest - is a good one.
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7cd04f2a-da9a-44da-8d08-924c6e08c8d2" />
 
 2. To design your toy use CorelDraw or AdobeIllustrator, as instance. It's important to get a file in the format .dxf or .cdr finally.
 
 - think over all the details and their size
--  make the grooves parametres based on the thickness of the plywood
+- make the grooves parametres based on the thickness of the plywood
 - draw your own contour of a horse or trace a picture from the Internet
 
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/70f47b8a-56ff-4844-921e-d587da520630" />
