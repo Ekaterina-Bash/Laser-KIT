@@ -1,6 +1,6 @@
 # **Laser-Cut Horse Gift Kit**
 
-It's known, that the symbol of 2026 - is horse. So, let's create a New Year gift, insired by this animal. For this goal use laser cutting
+It's known, that the symbol of 2026 - is horse :horse:. So, let's create a New Year gift, insired by this animal. For this goal use laser cutting
 
 ## **Step 1. Inspiration.**
 You can use a lot of sources for searching ideas. Pinterest - is good one.
