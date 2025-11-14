@@ -1,7 +1,7 @@
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2cbfc75a-319d-4d62-a3d1-c97210ee828a" /># Laser-KIT
+Laser-KIT
 creating a New Year gift by laser cutting
 It's known, that the symbol of 2026 - is horse. So, let's create a New Year gift, insired by this animal. 
-##**Step 1. Inspiration.**
+##**##Step 1. Inspiration.**
 You can use a lot of sources for searching ideas. Pinterest - is good one.
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7cd04f2a-da9a-44da-8d08-924c6e08c8d2" />
 
