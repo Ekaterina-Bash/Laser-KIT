@@ -10,6 +10,10 @@ You can use a lot of sources for searching ideas. Pinterest - is good one.
 ## **Step 2. Design the gift.**
 As instance, you can create a by CorelDraw or AdobeIllustrator.
 
+1. think over all the details and their size
+2. make the grooves parametres based on the thickness of the plywood
+3. draw your own contour of a horse or trace a picture from the Internet
+
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/70f47b8a-56ff-4844-921e-d587da520630" />
 
 ## **Step 3. Production.**
